@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1022163114141",
+    "firebase_url": "https://loginauth-c26eb.firebaseio.com",
+    "project_id": "loginauth-c26eb",
+    "storage_bucket": "loginauth-c26eb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1022163114141:android:18b97d59825baf0d701c74",
+        "android_client_info": {
+          "package_name": "com.example.googleloginauth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1022163114141-p3obk1g7n0gq1dl0286vupvf3iik79a3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.googleloginauth",
+            "certificate_hash": "a5a9e283b5af87ec4d804d8da3db18440e8678c5"
+          }
+        },
+        {
+          "client_id": "1022163114141-oe4uqdu62aphqfg8jgcmn9p2mqa9hnas.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1QXaEYUDONZh754QScei2OkBHPcxp_eI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1022163114141-oe4uqdu62aphqfg8jgcmn9p2mqa9hnas.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
